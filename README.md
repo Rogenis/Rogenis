@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Rógenis Pereira 
+## My name is Rógenis Pereira 
 
 💻 Software Developer jr. at [Méliuz](https://www.linkedin.com/company/meliuz/)
 
