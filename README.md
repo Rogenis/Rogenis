@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Developer jr. at Méliuz.
+## Rógenis Pereira 
 
-Computer Science Student at Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
+💻 Software Developer jr. at [Méliuz](https://www.linkedin.com/company/meliuz/)
+
+🎓 Computer Science Student at Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
 
 e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br
+
+----------------
 
 I am a student of Computer Science at the Federal University of Amazonas.
 
