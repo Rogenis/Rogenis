@@ -15,6 +15,18 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+
+## My name is Rógenis Pereira 
+
+💻 Software Developer jr. at [Méliuz](https://www.linkedin.com/company/meliuz/)
+
+🎓 Computer Science Student at Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
+
+e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br
+
+----------------
+
+
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,19 +46,19 @@
 </p>
 
 
-### Qualificação
+### Qualifications
 
 - 🎓 Computer Science Student at Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
 
 - In graduation, so far, I participated in the SUPER program (Samsung + UFAM) in the Senior Scientific and Technological Initiation Project (ICT-Senior) / Scientific and Technological Initiation in the area of "Engineering of Innovative Software Products". Where we developed the "Mining Reviews" tool. 
--
+
 - Linguagens: PHP, JavaScript, JAVA, Phyton
 Frameworks: React Native, Vue, Bootstrap, JQuery, Express, Sails.
 Tecnologias: HTML, CSS, MySQL, SQLServer, GitHub, Docker, Design Paterns, POO, Postgres, MondoDB.
 Metodologias Ágeis.
 Inglês: Intermediário
 
-### Experiência profissional
+### Professional Experiences
 
 - 💻 Software Developer  at [Méliuz](https://www.linkedin.com/company/meliuz/) (at the moment)
 
