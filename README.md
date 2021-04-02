@@ -18,6 +18,7 @@
 
 ## My name is Rógenis Pereira 
 
+ 💻 Software Developer at [Méliuz](https://www.linkedin.com/company/meliuz/)
 🎓 Computer Science Student at Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
 
 e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br
@@ -58,7 +59,7 @@ Inglês: Intermediário
 
 ### Professional Experiences
 
-
+- Software Developer at [Méliuz](https://www.linkedin.com/company/meliuz/) (currently)
 -  Technical support level 2 at NBN / Womp Telecom. Where I was responsible for forwarding calls through level 1 support. In addition, my responsibilities were: customer support, service activation and router configuration.
 
 
