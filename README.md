@@ -19,6 +19,7 @@
 ## My name is Rógenis Pereira 
 
  💻 Software Developer at [Méliuz](https://www.linkedin.com/company/meliuz/)
+ 
 🎓 Computer Science Student at Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
 
 e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br
