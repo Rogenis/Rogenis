@@ -22,7 +22,7 @@
  
 🎓 Computer Science Student at Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
 
-e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br
+e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br 
 
 ----------------
 
