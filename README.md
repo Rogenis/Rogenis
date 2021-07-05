@@ -1,17 +1,11 @@
 
 </br>
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogenis&layout=compact"
-  />
-  <img
-    align="center"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Rogenis&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-  />
-  
-</p>
+
+ <div>
+  <a href="https://github.com/Rogenis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rogenis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogenis&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -96,3 +90,6 @@ Inglês: Intermediário
   <a href="https://img.shields.io/">IMG Shieldes</a>
   <a href="https://github.com/teteusAraujo">Inspiração</a>
 </p>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
