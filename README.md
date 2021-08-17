@@ -10,7 +10,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-## My name is Rógenis Pereira 
+## My name is Rógenis Silva 
 
  💻 Software Developer at [Méliuz](https://www.linkedin.com/company/meliuz/)
  
