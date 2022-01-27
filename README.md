@@ -48,7 +48,7 @@ e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br
 
 - Linguagens: PHP, JavaScript, JAVA, Phyton
 Frameworks: React Native, Vue, Bootstrap, JQuery, Express, Sails.
-Tecnologias: HTML, CSS, MySQL, SQLServer, GitHub, Docker, Design Paterns, POO, Postgres, MondoDB.
+Tecnologias: HTML, CSS, MySQL, SQLServer, GitHub, Docker, Design Paterns, POO, Postgres, MongoDB.
 Metodologias Ágeis.
 Inglês: Intermediário
 
