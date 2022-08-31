@@ -10,9 +10,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-## My name is Rógenis Silva 
+## Meu nome é Rógenis Silva 
 
- 💻 Software Developer at [Méliuz](https://www.linkedin.com/company/meliuz/)
+ 💻 Software Developer | Full Stack | Frontend
  
 🎓 Computer Science Student at Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
 
@@ -42,7 +42,7 @@ e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br
 
 ### Qualifications
 
-- 🎓 Computer Science Student at Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
+- 🎓 Cursando Ciência da Computação na Universidade Federal do Amazonas (UFAM) - Manaus, Brasil.
 
 - In graduation, so far, I participated in the SUPER program (Samsung + UFAM) in the Senior Scientific and Technological Initiation Project (ICT-Senior) / Scientific and Technological Initiation in the area of "Engineering of Innovative Software Products". Where we developed the "Mining Reviews" tool. 
 
@@ -54,7 +54,7 @@ Inglês: Intermediário
 
 ### Professional Experiences
 
-- Software Developer at [Méliuz](https://www.linkedin.com/company/meliuz/) (currently)
+- Software Developer
 -  Technical support level 2 at NBN / Womp Telecom. Where I was responsible for forwarding calls through level 1 support. In addition, my responsibilities were: customer support, service activation and router configuration.
 
 
