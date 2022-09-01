@@ -3,7 +3,7 @@
 
  <div>
   <a href="https://github.com/Rogenis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rogenis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rogenis&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogenis&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
@@ -12,9 +12,9 @@
 
 ## Meu nome é Rógenis Silva 
 
- 💻 Software Developer | Full Stack | Frontend
+ 💻 Atuoo como Software Developer | Full Stack | Frontend
  
-🎓 Computer Science Student at Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
+🎓 Eu curso Ciência da Computação na Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
 
 e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br 
 
@@ -35,6 +35,8 @@ e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     
    
 </p>
@@ -42,15 +44,15 @@ e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br
 
 ### Qualifications
 
-- 🎓 Cursando Ciência da Computação na Universidade Federal do Amazonas (UFAM) - Manaus, Brasil.
+- Na graduação, participei do programa SUPER (Samsung + UFAM) no Projeto de Iniciação Científica e Tecnológica Sênior (ICT-Sênior) / Iniciação Científica e Tecnológica na área de Engenharia de Produtos de Software Inovadores. Onde desenvolvi a ferramenta "Mining Review".
 
-- In graduation, so far, I participated in the SUPER program (Samsung + UFAM) in the Senior Scientific and Technological Initiation Project (ICT-Senior) / Scientific and Technological Initiation in the area of "Engineering of Innovative Software Products". Where we developed the "Mining Reviews" tool. 
+- Participo do Programa de Capacitação Ignite da Rockeseat, onde estou me especializando nas principais tecnologias do mercado. Atuando nas tecnologias como: React Native, Node JS, React, Elixir, entre outros.
 
-- Linguagens: PHP, JavaScript, JAVA, Phyton
-Frameworks: React Native, Vue, Bootstrap, JQuery, Express, Sails.
-Tecnologias: HTML, CSS, MySQL, SQLServer, GitHub, Docker, Design Paterns, POO, Postgres, MongoDB.
-Metodologias Ágeis.
-Inglês: Intermediário
+- Possuo conhecimentos nas linguagens: PHP, JavaScript, JAVA, Python, C, C++.
+- Frameworks: React Native, React, Vue, Bootstrap, JQuery, Express, Sails,
+- Tecnologias: HTML, CSS, MySQL, SQLServer, GitHub, Docker, Design Paterns, POO, Postgres, MongoDB.
+- Metodologias Ágeis: Scrum, Kanban e Planning Poker.
+- Inglês: Básico para Intermediário.
 
 ### Professional Experiences
 
