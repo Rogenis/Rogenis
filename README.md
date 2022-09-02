@@ -12,7 +12,7 @@
 
 ## Meu nome é Rógenis Silva 
 
- 💻 Atuoo como Software Developer | Full Stack | Frontend
+ 💻 Atuo como Software Developer | Full Stack | Frontend
  
 🎓 Eu curso Ciência da Computação na Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
 
@@ -56,8 +56,9 @@ e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br
 
 ### Professional Experiences
 
-- Software Developer
--  Technical support level 2 at NBN / Womp Telecom. Where I was responsible for forwarding calls through level 1 support. In addition, my responsibilities were: customer support, service activation and router configuration.
+- Desenvolvedor de Software na Méliuz, atuando como Desenvolvedor de Software no aplicativo e site da Méliuz, na frente de cartão de crédito. Trabalhando com tecnologias como: React Native, React Js, NodeJs e Python.
+-  Suporte técnico nível 2 na WOMP / NBN, responsável pelos chamados encaminhados pelo suporte nível 1;
+Suporte ao atendimento ao cliente; Configuração de roteadores e ONU; Ativação de serviços aos clientes.
 
 
 ## Contato :iphone:
