@@ -13,7 +13,7 @@
 
  💻 Atuo como Software Developer | Full Stack | Frontend
  
-🎓 Eu curso Ciência da Computação na Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
+🎓 Ciência da Computação na Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
 
 e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br 
 
