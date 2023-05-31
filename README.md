@@ -11,9 +11,9 @@
 
 ## Meu nome é Rógenis Silva 
 
- 💻 Atuo como Software Developer | Full Stack | Frontend
+ 💻 Atuo como Software Developer | Full Stack
  
-🎓 Ciência da Computação na Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
+🎓 Formado em Ciência da Computação na Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
 
 e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br 
 
@@ -93,5 +93,3 @@ Suporte ao atendimento ao cliente; Configuração de roteadores e ONU; Ativaçã
   <a href="https://github.com/teteusAraujo">Inspiração</a>
 </p>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
