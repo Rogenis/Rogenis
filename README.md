@@ -11,9 +11,9 @@
 
 ## Meu nome é Rógenis Silva 
 
- 💻 Atuo como Software Developer | Full Stack
+ 💻 Atuo como Software Developer | Frontend Pleno
  
-🎓 Formado em Ciência da Computação na Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
+🎓 Formando em Ciência da Computação na Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
 
 e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br 
 
@@ -43,22 +43,15 @@ e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br
 
 ### Qualifications
 
-- Na graduação, participei do programa SUPER (Samsung + UFAM) no Projeto de Iniciação Científica e Tecnológica Sênior (ICT-Sênior) / Iniciação Científica e Tecnológica na área de Engenharia de Produtos de Software Inovadores. Onde desenvolvi a ferramenta "Mining Review".
+- Participei do programa SUPER (Samsung + UFAM) no Projeto de Iniciação Científica e Tecnológica Sênior (ICT-Sênior) / Iniciação Científica e Tecnológica na área de Engenharia de Produtos de Software Inovadores. Onde desenvolvi a ferramenta "Mining Review".
 
-- Participo do Programa de Capacitação Ignite da Rockeseat, onde estou me especializando nas principais tecnologias do mercado. Atuando nas tecnologias como: React Native, Node JS, React, Elixir, entre outros.
+- Participei do Programa de Capacitação Ignite da Rockeseat, onde estou me especializando nas principais tecnologias do mercado. Atuando nas tecnologias como: React Native, Node JS, React, Elixir, entre outros.
 
-- Possuo conhecimentos nas linguagens: PHP, JavaScript, JAVA, Python, C, C++.
-- Frameworks: React Native, React, Vue, Bootstrap, JQuery, Express, Sails,
-- Tecnologias: HTML, CSS, MySQL, SQLServer, GitHub, Docker, Design Paterns, POO, Postgres, MongoDB.
+- Possuo conhecimentos nas linguagens: React Js, React Native, JavaScript, Python, C, C++.
+- Frameworks: Vue, Bootstrap, JQuery, Express, Sails,
+- Tecnologias: HTML, CSS, Javascript, MySQL, SQLServer, GitHub, Docker, Design Paterns, POO, Postgres, MongoDB.
 - Metodologias Ágeis: Scrum, Kanban e Planning Poker.
-- Inglês: Básico para Intermediário.
-
-### Professional Experiences
-
-- Desenvolvedor de Software na Méliuz, atuando como Desenvolvedor de Software no aplicativo e site da Méliuz, na frente de cartão de crédito. Trabalhando com tecnologias como: React Native, React Js, NodeJs e Python.
--  Suporte técnico nível 2 na WOMP / NBN, responsável pelos chamados encaminhados pelo suporte nível 1;
-Suporte ao atendimento ao cliente; Configuração de roteadores e ONU; Ativação de serviços aos clientes.
-
+- Inglês: Intermediário.
 
 ## Contato :iphone:
 
