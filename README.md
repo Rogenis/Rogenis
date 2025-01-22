@@ -11,9 +11,9 @@
 
 ## Meu nome é Rógenis Silva 
 
- 💻 Atuo como Software Developer | Frontend Pleno
+ 💻 Atuo como Software Developer | Frontend | Backend
  
-🎓 Formando em Ciência da Computação na Universidade Federal do Amazonas (UFAM) - Manaus, Brazil.
+🎓 Formando em Ciência da Computação na Faculdade das Américas (FAM) - Manaus, Brazil.
 
 e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br 
 
