@@ -13,9 +13,9 @@
 
  💻 Atuo como Software Developer | Frontend | Backend
  
-🎓 Formando em Ciência da Computação na Faculdade das Américas (FAM) - Manaus, Brazil.
+🎓 Formado em Ciência da Computação na Faculdade das Américas (FAM) - Manaus, Brazil.
 
-e-mail: Rogenisp16@gmail.com / rps@icomp.ufam.edu.br 
+e-mail: Rogenisp16@gmail.com / Rogenisfalcao@gmail.com
 
 ----------------
 
