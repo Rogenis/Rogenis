@@ -1,88 +1,41 @@
+# Hi, I'm Rógenis Silva 👋
 
-</br>
+**Senior Full Stack Engineer** · MSc candidate in Artificial Intelligence (UFAM) · Manaus, Brazil
 
- <div>
-  <a href="https://github.com/Rogenis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogenis&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+I build production systems end to end, from React interfaces to Node.js, Python and C# backends, with a growing focus on applied AI. Over 5 years I have worked in fintech, retail, education and applied health research.
 
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+- 🏦 **Méliuz** (fintech, 9M+ active users): part of the team that built the digital account and credit card from the ground up.
+- 🤖 **Leroy Merlin**: generative AI shopping assistant with RAG over the product catalog and function calling.
+- 🎓 **INDT**: AI learning assistant, adaptive learning paths and accessibility (screen reader, keyboard navigation, VLibras) for K-12 students.
+- 🔬 **CETELI–UFAM**: currently leading the architecture of a health research platform built from scratch.
 
+## Featured work
 
-## Meu nome é Rógenis Silva 
+| Project | What it shows |
+|---|---|
+| [**order-processing-microservices**](https://github.com/Rogenis/order-processing-microservices) | Event-driven system in C# / .NET 10 with Azure Cosmos DB, Service Bus and gRPC. Idempotent API, retries with backoff verified by taking a service down, 45 tests and CI. Runs locally with one command. |
+| [**Ateliê 3D Brasil**](https://atelie3dbrasil.com.br) | E-commerce rebuilt as the sole developer on Next.js and Cloudflare Workers, live in production. Made all 51 product pages indexable by Google. |
 
- 💻 Atuo como Software Developer | Frontend | Backend
- 
-🎓 Formado em Ciência da Computação na Faculdade das Américas (FAM) - Manaus, Brazil.
+## Tech
 
-e-mail: Rogenisp16@gmail.com / Rogenisfalcao@gmail.com
-
-----------------
-
-
-<p align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    
-   
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,cs,dotnet,postgres,mysql,redis,docker,kubernetes,aws,azure,cloudflare,tailwind,githubactions&perline=10" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Python, C#, .NET, PostgreSQL, MySQL, Redis, Docker, Kubernetes, AWS, Azure, Cloudflare, Tailwind CSS, GitHub Actions" />
 </p>
 
+**AI & data:** LLMs (OpenAI), RAG, function calling, machine learning, computer vision, NLP
+**Practices:** microservices, BFF, REST, gRPC, TDD, code review, Scrum and Kanban
 
-### Qualifications
+## Publications
 
-- Participei do programa SUPER (Samsung + UFAM) no Projeto de Iniciação Científica e Tecnológica Sênior (ICT-Sênior) / Iniciação Científica e Tecnológica na área de Engenharia de Produtos de Software Inovadores. Onde desenvolvi a ferramenta "Mining Review".
+- *Requirements Behind Reviews: How do Software Practitioners See App User Reviews to Think of Requirements?* SBQS 2021. [DOI 10.1145/3493244.3493245](https://doi.org/10.1145/3493244.3493245)
+- *Towards a Data-Driven Requirements Elicitation Tool Through the Lens of Design Thinking.* ICEIS 2021. [DOI 10.5220/0010443402830290](https://doi.org/10.5220/0010443402830290)
 
-- Participei do Programa de Capacitação Ignite da Rockeseat, onde estou me especializando nas principais tecnologias do mercado. Atuando nas tecnologias como: React Native, Node JS, React, Elixir, entre outros.
+## Contact
 
-- Possuo conhecimentos nas linguagens: React Js, React Native, JavaScript, Python, C, C++.
-- Frameworks: Vue, Bootstrap, JQuery, Express, Sails,
-- Tecnologias: HTML, CSS, Javascript, MySQL, SQLServer, GitHub, Docker, Design Paterns, POO, Postgres, MongoDB.
-- Metodologias Ágeis: Scrum, Kanban e Planning Poker.
-- Inglês: Intermediário.
-
-## Contato :iphone:
-
-<p align="center">
-    <a href="https://github.com/Rogenis">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Rogenis">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:rogenisp16@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rogenisp16@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/rogenis-pereira">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/rogenis-pereira">
-    </a>
+<p>
+  <a href="https://www.linkedin.com/in/rogenis-silva"><img src="https://img.shields.io/badge/LinkedIn-rogenis--silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rogenisfalcao@gmail.com"><img src="https://img.shields.io/badge/Email-rogenisfalcao%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://rogenis-silva.netlify.app"><img src="https://img.shields.io/badge/Portfolio-rogenis--silva.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<p align="center"> 
-
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Rogenis/count.svg" />
- </p>
-
-</p>
-
-<p align="center">
-
-  ### Créditos
-  <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
-  <a href="https://img.shields.io/">IMG Shieldes</a>
-  <a href="https://github.com/teteusAraujo">Inspiração</a>
-</p>
-
+Portuguese (native) · English (professional working) · Japanese (studying for JLPT N2)
